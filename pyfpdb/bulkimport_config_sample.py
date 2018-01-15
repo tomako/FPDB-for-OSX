@@ -1,0 +1,5 @@
+IMPORT_PATH = ""
+IMPORT_FILE_PATTERN = "pokerstars*.txt"
+IMPORT_NUM_OF_FILES = 10
+IMPORT_WAIT_SEC = 10
+IMPORT_LOG_FILE = "bulkimport-log.txt"
